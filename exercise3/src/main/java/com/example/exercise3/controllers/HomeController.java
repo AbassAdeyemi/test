@@ -24,7 +24,7 @@ import org.springframework.web.bind.annotation.RequestBody;
  *
  * @author franc
  */
-@Controller
+@RestController
 public class HomeController {
     
      @Autowired
